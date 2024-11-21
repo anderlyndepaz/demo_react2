@@ -30,3 +30,6 @@ const WeatherList = ({ weatherData }) => {
 // el item.dt es el timestamp UNIX como identificador unico para cada tarjeta 
 //luego pasamos los datos como propiedad prop al componenete de weathercard
 export default WeatherList;
+
+
+/////////
